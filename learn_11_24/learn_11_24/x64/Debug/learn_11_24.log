@@ -1,0 +1,6 @@
+﻿  1124.c
+D:\c_code\learn_11_24\1124.c(75,13): warning C4477: “scanf_s”: 格式字符串“%99s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+      D:\c_code\learn_11_24\1124.c(75,13):
+      此参数用作缓冲区大小
+  
+  learn_11_24.vcxproj -> D:\c_code\learn_11_24\x64\Debug\learn_11_24.exe
